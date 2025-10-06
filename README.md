@@ -3,8 +3,9 @@
 ## Nama : Alya Febrianti
 ## Kelas : TI.24.A1
 ## NIM : 312410692
+## Tugas Praktikum Lab3Web
 
-## INPUT 
+## Praktikum Membuat List di HTML
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -58,7 +59,7 @@
 <img width="1311" height="1134" alt="Screenshot 2025-10-06 120130" src="https://github.com/user-attachments/assets/ae282271-ae7d-449c-8f92-d13fa1c87ba8" />
 
 
-
+## Praktikum Membuat List dan Table di HTML
 
 ```html
 <!DOCTYPE html>
@@ -100,9 +101,12 @@
 </html>
 ```
 
+## HASIL
+
 <img width="974" height="435" alt="Screenshot 2025-10-06 120335" src="https://github.com/user-attachments/assets/27da3494-fcb1-4725-bcaf-54a13f903f88" />
 
 
+## Praktikum Membuat List, Table, dan Form pada HTML
 
 ```html
 <!DOCTYPE html> 
@@ -158,9 +162,11 @@
 </body>
 </html>
 ```
+## HASIL
 
 <img width="2856" height="845" alt="Screenshot 2025-10-06 120525" src="https://github.com/user-attachments/assets/29056cc7-fdb2-4c22-8cfc-5d6433923c2a" />
 
+## Tugas : Membuat Form Pendaftaran Mahasiswa
 
 ```html
 <!DOCTYPE html>
@@ -254,6 +260,7 @@
 </body>
 </html>
 ```
+## HASIL
 
 <img width="950" height="319" alt="image" src="https://github.com/user-attachments/assets/c6f42348-1734-434d-9732-920bbaf4a9d7" />
 
